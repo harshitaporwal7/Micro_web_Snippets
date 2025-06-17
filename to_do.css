@@ -1,0 +1,27 @@
+body {
+    background-color:chocolate;
+}
+
+ul {
+    padding-left: 40%;
+    color:antiquewhite;
+}
+
+h1 {
+    padding-left:40%;
+    color:lightyellow;
+}
+input{
+    margin-left:40%;
+    border-radius: 5px;
+}
+
+.addbtn {
+    background-color: cadetblue;
+    border-radius: 4px;
+}
+
+.delete {
+    background-color:aquamarine;
+    border-radius: 4px;
+}
